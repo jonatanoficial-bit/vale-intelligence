@@ -1,5 +1,13 @@
 # Changelog
 
+## VALE INTELLIGENCE — v0.1.1 — 2026-10-08
+
+### Alterado
+
+- Publicação contínua da demonstração sintética configurada para GitHub Pages.
+- Navegação estática adotou hash para preservar as rotas em hospedagem sem servidor.
+- Caminhos públicos de ativos e PWA agora respeitam a base de publicação do repositório.
+
 ## VALE INTELLIGENCE — v0.1.0 — 2026-10-08
 
 ### Adicionado

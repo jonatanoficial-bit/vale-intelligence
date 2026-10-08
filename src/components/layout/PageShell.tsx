@@ -62,7 +62,7 @@ export function PageShell({ children }: PropsWithChildren) {
       <footer className="site-footer">
         <div className="shell-container footer-content">
           <ValeLogo />
-          <p>v0.1.0 · Base de desenvolvimento · Outubro de 2026</p>
+          <p>v0.1.1 · Base de desenvolvimento · Outubro de 2026</p>
           <p className="footer-note">
             Nenhuma consulta real é executada nesta demonstração.
           </p>

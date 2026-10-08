@@ -15,6 +15,6 @@ describe('App', () => {
     ).toBeInTheDocument()
     expect(
       screen.getByRole('link', { name: /ver demonstração sintética/i }),
-    ).toHaveAttribute('href', '/demonstracao')
+    ).toHaveAttribute('href', '#/demonstracao')
   })
 })
