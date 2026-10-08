@@ -16,7 +16,8 @@
 - Supabase está apenas preparado por variáveis públicas; configuração e banco pertencem ao Lote 04.
 - Conectores pertencem à Fase 3 e permanecem não implementados.
 - O build PWA concluiu com sucesso, mas a geração Workbox levou aproximadamente 111 segundos neste ambiente; monitorar esse tempo nos próximos lotes.
-- A publicação automática da demonstração sintética está configurada para GitHub Pages; a aplicação comercial continua fora desse ambiente.
+- A demonstração sintética está publicada em `https://jonatanoficial-bit.github.io/vale-intelligence/` via GitHub Pages e será atualizada a cada envio para `main`.
+- A aplicação comercial continua fora do GitHub Pages.
 
 ## Validações aprovadas
 
